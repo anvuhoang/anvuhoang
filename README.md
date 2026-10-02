@@ -5,7 +5,10 @@ Hi there, I'm Vũ Ân👋 3rd-year Information Systems student at University of 
 - 📊 Currently exploring data engineering, data pipelines, and database technologies.
 - 🤖 Passionate about AI, scalable systems, and solving real-world problems.
 
-Reach me at: aan.vuhoang@gmail.com 
+Reach me at:
+
+- aan.vuhoang@gmail.com
+- https://www.linkedin.com/in/an-vuhoang
 
 ## 🛠️ Techstacks 
 ### 1. Languages
